@@ -1,11 +1,14 @@
-<img width="1814" height="1026" alt="image" src="https://github.com/user-attachments/assets/303d6009-dbd6-492a-8618-9dcc8c75523c" /><div align="center">
-<h1> 🛜 Servidor WEB - Breno</h1>
+
+<h1> 🛜 Servidor WEB - Teste bem simples </h1>
 <br>
 </div>
 
 <div align="justify">
 <hr><h2> 📖 Método GET 📖</h2>
 <img width="1814" height="1026" alt="image" src="https://github.com/user-attachments/assets/392c8165-01cc-4a74-aacf-48e2cf4550dd" />
+
+
+### Como da pra ver quando dei GET apareceu ali em baixo as informação de site 
 </div>
 
 <br>
@@ -14,6 +17,9 @@
 <div align="justify">
 <hr><h2>🎮🕹️ MÉTODO POST</h2>
 <img width="1681" height="998" alt="Captura de tela 2026-03-20 105723" src="https://github.com/user-attachments/assets/8c433ce3-02a6-4b28-812f-a7b368aaa274" />
+
+
+### ali da pra ver o Metodo Post ali que mensagem bom diaaa apareceu ali
 </div>
 
 
